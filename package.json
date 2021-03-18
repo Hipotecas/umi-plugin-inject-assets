@@ -7,7 +7,7 @@
     "name": "bt-moon",
     "email": "kisoua@outlook.com"
   },
-  "repository": "/umi-plugin-inject-assets",
+  "repository": "https://github.com/bt-moon/umi-plugin-inject-assets",
   "scripts": {
     "start": "cross-env APP_ROOT=example umi dev",
     "build": "father-build",
